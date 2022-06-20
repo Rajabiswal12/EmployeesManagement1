@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T09:18:46 IST" name="Default suite" finished-at="2022-06-20T09:18:48 IST" duration-ms="2158">
+    <groups>
+    </groups>
+    <test started-at="2022-06-20T09:18:46 IST" name="Default test" finished-at="2022-06-20T09:18:48 IST" duration-ms="2158">
+      <class name="com.AllTest.AllExecutionDetails">
+        <test-method signature="VerifyGet()[pri:0, instance:com.AllTest.AllExecutionDetails@609db43b]" started-at="2022-06-20T09:18:46 IST" name="VerifyGet" finished-at="2022-06-20T09:18:48 IST" duration-ms="1904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyGet -->
+        <test-method signature="VerifyPost()[pri:1, instance:com.AllTest.AllExecutionDetails@609db43b]" started-at="2022-06-20T09:18:48 IST" name="VerifyPost" finished-at="2022-06-20T09:18:48 IST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPost -->
+        <test-method signature="VerifyPut()[pri:2, instance:com.AllTest.AllExecutionDetails@609db43b]" started-at="2022-06-20T09:18:48 IST" name="VerifyPut" finished-at="2022-06-20T09:18:48 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPut -->
+        <test-method signature="VerifyDelete()[pri:3, instance:com.AllTest.AllExecutionDetails@609db43b]" started-at="2022-06-20T09:18:48 IST" name="VerifyDelete" finished-at="2022-06-20T09:18:48 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyDelete -->
+      </class> <!-- com.AllTest.AllExecutionDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
